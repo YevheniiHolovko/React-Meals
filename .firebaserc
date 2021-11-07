@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "default": "menu-8a52b",
+    "react-http": "react-http-f74ca",
+    "project": "projeck-1-85a0a",
+    "menu": "menu-8a52b",
+    "starting": "menu-8a52b"
+  },
+  "targets": {}
+}
